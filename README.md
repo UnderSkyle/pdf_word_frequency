@@ -1,3 +1,4 @@
-[README.md](https://github.com/UnderSkyle/pdf_word_frequency/files/6900245/README.md)
-# pdf_word_frequency
-get the frequency of all strings in a pdf
+#pdf_word_frequency 
+get the frequency of all strings in a pdf 
+REQUIERMENT : pip install PyPDF2 
+RUN : linux : python3 analyse.py Windows: run with pytho
